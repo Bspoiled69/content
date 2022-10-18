@@ -1,4 +1,6 @@
----
+<!DOCTYPE html>
+<html lang="en">
+…--
 title: Doctype
 slug: Glossary/Doctype
 tags:
